@@ -90,7 +90,9 @@ o	Apply all missing security patches and updates.
 o	Schedule weekly automated scans to proactively detect and mitigate vulnerabilities.
 
 **3.	Best Practices for Improved Security:**
+
 o	Enable email notifications for new vulnerabilities and scheduled assessments.
+
 o	Regularly audit compliance against industry security benchmarks.
  
  ![image](https://github.com/user-attachments/assets/22192c50-d05b-4f41-bc4c-238afbb52725)
